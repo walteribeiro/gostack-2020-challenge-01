@@ -1,5 +1,15 @@
 {
   "name": "backend",
+  "description": "",
+  "author": "Walter Ribeiro",
+  "homepage": "https://github.com/walteribeiro/gostack-2020-challenge-01",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walteribeiro/gostack-2020-challenge-01.git"
+  },
+  "bugs": {
+    "url": "https://github.com/walteribeiro/gostack-2020-challenge-01/issues"
+  },
   "version": "1.0.0",
   "main": "src/server.js",
   "license": "MIT",
