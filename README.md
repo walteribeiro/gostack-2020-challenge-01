@@ -8,7 +8,7 @@
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
   <a href="https://github.com/walteribeiro/gostack-2020-challenge-01/blob/master/LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/github/license/walteribeiro/NodeJS Concepts" />
+    <img alt="License: MIT" src="https://img.shields.io/github/license/walteribeiro/gostack-2020-challenge-01" />
   </a>
   <a href="https://twitter.com/walter19921" target="_blank">
     <img alt="Twitter: walter19921" src="https://img.shields.io/twitter/follow/walter19921.svg?style=social" />
