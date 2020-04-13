@@ -19,10 +19,16 @@
 
 ### 🏠 [Homepage](https://github.com/walteribeiro/gostack-2020-challenge-01)
 
-## Install dependencies
+## Install
 
 ```sh
 yarn
+```
+
+## Usage
+
+```sh
+yarn dev
 ```
 
 ## Run tests
